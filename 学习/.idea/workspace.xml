@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfa10235-cf08-4841-8b03-c73cdaf82643" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cfa10235-cf08-4841-8b03-c73cdaf82643" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1chiABmcjgRLIgQcImlRwYSeGJy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -218,7 +217,7 @@
       <workItem from="1591779948963" duration="2860000" />
       <workItem from="1591866253554" duration="2588000" />
       <workItem from="1591932046520" duration="7283000" />
-      <workItem from="1592194829525" duration="581000" />
+      <workItem from="1592194829525" duration="1068000" />
     </task>
     <task id="LOCAL-00001" summary="加了算法">
       <created>1592195289578</created>
@@ -227,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592195289578</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="加了算法">
+      <created>1592195897826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592195897826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,10 +260,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="408" y="0" key="#flb/0.0.1366.728@0.0.1366.728" timestamp="1591343016737" />
-    <state x="209" y="0" key="CommitChangelistDialog2" timestamp="1592195287460">
+    <state x="209" y="0" key="CommitChangelistDialog2" timestamp="1592195895857">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592195287460" />
+    <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592195895857" />
     <state x="417" y="106" key="EnvironmentVariablesDialog" timestamp="1591343002127">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
